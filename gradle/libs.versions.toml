@@ -4,8 +4,8 @@ junit-jupiter = "5.11.3"
 kafka-streams = "3.9.1"
 kafka-clients = "3.9.1"
 kafka-streams-test-utils = "3.9.1"
-jackson-annotations = "2.13.2"
-jackson-databind = "2.13.2"
+jackson-annotations = "2.19.4"
+jackson-databind = "2.19.4"
 log4j-slf4j-impl = "2.19.0"
 
 [libraries]
