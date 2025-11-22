@@ -10,12 +10,6 @@
 
 See [StreamProcesses](src/main/java/app/StreamProcesses.java) for sample stream processing
 
-### Startup kafka
-
-Follow instruction in official doc.
-
-https://kafka.apache.org/quickstart
-
 ### Create topic
 
 ```markdown
@@ -36,7 +30,6 @@ bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic sink-top
 ```
 
 ### Run app
-From the root
 
 ```markdown
 ./gradlew stream:run
