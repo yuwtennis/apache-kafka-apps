@@ -1,5 +1,7 @@
 # apache-kafka-apps
 
+**WARNING: connectors are not working now. I will fix it as soon as possible.**
+
 This repository includes practical examples with kafka related apps.  
 It is meant for people who would like to see examples in addition to official documents.
 
